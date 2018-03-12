@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VC</Machine>
+    <WindowsUser>Student</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\bin\Debug\PrimeLibrary.exe">
+      <PackagePath>PrimeLibrary.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\bin\Debug\PrimeLibrary.pdb">
+      <PackagePath>PrimeLibrary.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Callisto.1.2.4\lib\winrt45\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Assets\WideLogo.PNG">
+      <PackagePath>Assets\WideLogo.PNG</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_group.PNG">
+      <PackagePath>Images\childrens\Childrens_group.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_group_detail.PNG">
+      <PackagePath>Images\childrens\Childrens_group_detail.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_group_header.PNG">
+      <PackagePath>Images\childrens\Childrens_group_header.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_group.PNG">
+      <PackagePath>Images\fiction\fiction_group.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_group_detail.png">
+      <PackagePath>Images\fiction\fiction_group_detail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_group_header.PNG">
+      <PackagePath>Images\fiction\fiction_group_header.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_group.PNG">
+      <PackagePath>Images\nonfiction\nonfiction_group.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_group_detail.PNG">
+      <PackagePath>Images\nonfiction\nonfiction_group_detail.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_group_header.PNG">
+      <PackagePath>Images\nonfiction\nonfiction_group_header.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Data\Books.txt">
+      <PackagePath>Data\Books.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_AChristmasCarol1.jpg">
+      <PackagePath>Images\childrens\Childrens_AChristmasCarol1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_AChristmasCarol2.jpg">
+      <PackagePath>Images\childrens\Childrens_AChristmasCarol2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_group_detail.jpg">
+      <PackagePath>Images\childrens\Childrens_group_detail.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_Gulliverstravels1.jpg">
+      <PackagePath>Images\childrens\Childrens_Gulliverstravels1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_Gulliverstravels2.jpg">
+      <PackagePath>Images\childrens\Childrens_Gulliverstravels2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_TheNutcrackerAndTheMouseKing1.jpg">
+      <PackagePath>Images\childrens\Childrens_TheNutcrackerAndTheMouseKing1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_TheNutcrackerAndTheMouseKing2.jpg">
+      <PackagePath>Images\childrens\Childrens_TheNutcrackerAndTheMouseKing2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_TheOliverTwist1.jpg">
+      <PackagePath>Images\childrens\Childrens_TheOliverTwist1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_TheOliverTwist2.jpg">
+      <PackagePath>Images\childrens\Childrens_TheOliverTwist2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_TheRobinsonCrusoe1.jpg">
+      <PackagePath>Images\childrens\Childrens_TheRobinsonCrusoe1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_TheRobinsonCrusoe2.jpg">
+      <PackagePath>Images\childrens\Childrens_TheRobinsonCrusoe2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_TwentyThousandLeaguesUnderTheSea1.jpg">
+      <PackagePath>Images\childrens\Childrens_TwentyThousandLeaguesUnderTheSea1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\childrens\Childrens_TwentyThousandLeaguesUnderTheSea2.jpg">
+      <PackagePath>Images\childrens\Childrens_TwentyThousandLeaguesUnderTheSea2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_ATaleOfTwoCities1.jpg">
+      <PackagePath>Images\fiction\fiction_ATaleOfTwoCities1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_ATaleOfTwoCities2.jpg">
+      <PackagePath>Images\fiction\fiction_ATaleOfTwoCities2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_JaneEyre1.jpg">
+      <PackagePath>Images\fiction\fiction_JaneEyre1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_JaneEyre2.jpg">
+      <PackagePath>Images\fiction\fiction_JaneEyre2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_LordOfTheFlies1.jpg">
+      <PackagePath>Images\fiction\fiction_LordOfTheFlies1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_LordOfTheFlies2.jpg">
+      <PackagePath>Images\fiction\fiction_LordOfTheFlies2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_PrideAndPrejudice1.jpg">
+      <PackagePath>Images\fiction\fiction_PrideAndPrejudice1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_PrideAndPrejudice2.jpg">
+      <PackagePath>Images\fiction\fiction_PrideAndPrejudice2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_TheCatcherInTheRye1.jpg">
+      <PackagePath>Images\fiction\fiction_TheCatcherInTheRye1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_TheCatcherInTheRye2.jpg">
+      <PackagePath>Images\fiction\fiction_TheCatcherInTheRye2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_TheGreatGatsby1.jpg">
+      <PackagePath>Images\fiction\fiction_TheGreatGatsby1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\fiction\fiction_TheGreatGatsby2.jpg">
+      <PackagePath>Images\fiction\fiction_TheGreatGatsby2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_AMoveableFeast1.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_AMoveableFeast1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_AMoveableFeast2.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_AMoveableFeast2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_froup_detail.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_froup_detail.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_group.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_group.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_InColdBlood1.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_InColdBlood1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_InColdBlood2.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_InColdBlood2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_RelativityTheSpecialAndTheGeneralTheory1.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_RelativityTheSpecialAndTheGeneralTheory1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_RelativityTheSpecialAndTheGeneralTheory2.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_RelativityTheSpecialAndTheGeneralTheory2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_ThehistoryoftheDeclineandFalloftheRomanEmpire.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_ThehistoryoftheDeclineandFalloftheRomanEmpire.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_ThehistoryoftheDeclineandFalloftheRomanEmpire1.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_ThehistoryoftheDeclineandFalloftheRomanEmpire1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_ThehistoryoftheDeclineandFalloftheRomanEmpire2.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_ThehistoryoftheDeclineandFalloftheRomanEmpire2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_TheOriginOfSpecies1.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_TheOriginOfSpecies1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_TheOriginOfSpecies2.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_TheOriginOfSpecies2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_TheRepublic1.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_TheRepublic1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\Images\nonfiction\nonfiction_TheRepublic2.jpg">
+      <PackagePath>Images\nonfiction\nonfiction_TheRepublic2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\bin\Debug\SearchResultsPage.xaml">
+      <PackagePath>SearchResultsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Callisto.1.2.4\lib\winrt45\Callisto\themes\Generic.xaml">
+      <PackagePath>Callisto\themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Student\Documents\vp2_work\Activities\PrimeLibrary\PrimeLibrary\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
